@@ -6,7 +6,7 @@ cask 'electron-fiddle' do
   url "https://github.com/electron/fiddle/releases/download/v#{version}/Electron.Fiddle-darwin-x64-#{version}.zip"
   appcast 'https://github.com/electron/fiddle/releases.atom'
   name 'Electron Fiddle'
-  homepage 'https://electron.atom.io/'
+  homepage 'https://electronjs.org/fiddle'
 
   app 'Electron Fiddle.app'
 
